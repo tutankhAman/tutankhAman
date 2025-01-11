@@ -16,23 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=tutankhAman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-### 🎮 ASCII Pokemon Battle!
-```
-+-----------------------+
-|   Pokemon Battle!     |
-|                      |
-|  🔥 Charizard   ⚡️ Pikachu |
-|  HP: [|||||| ]  HP: [|||||  ]  |
-|                      |
-|  Choose your move:   |
-|  1. Attack          |
-|  2. Special Move    |
-|  3. Heal           |
-|                      |
-| Press the number in  |
-| issues to play!      |
-+-----------------------+
-```
 
 ### 🚀 Tech Arsenal
 
@@ -119,24 +102,3 @@ const aman = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
-<!-- Add this to your GitHub workflow to enable the snake animation -->
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: tutankhAman
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          snake_color: 'blue'
-```
