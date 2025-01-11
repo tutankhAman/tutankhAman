@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7DF7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Hey+there%2C+I+am+Aman+%F0%9F%91%8B;Welcome+to+my+Digital+Playground!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7DF7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Hey+there%2C+I+am+Aman+%F0%9F%91%8B;I+like+coffee+☕" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400" alt="Coding gif">
 </div>
 
 <h3 align="center">I am a full stack web developer and UI/UX designer.</h3>
@@ -15,7 +15,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tutankhAman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
 
 ### 🚀 Tech Arsenal
 
@@ -37,6 +36,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
+
 
 ### 📊 GitHub Activity
 
@@ -101,4 +101,3 @@ const aman = {
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
-
