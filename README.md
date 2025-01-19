@@ -88,7 +88,7 @@ const aman = {
 ### 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aman-aziz-23b416261/">
+  <a href="https://www.linkedin.com/in/aman-aziz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:amanaziz2020@gmail.com">
