@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7DF7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Hey+there%2C+I+am+Aman+%F0%9F%91%8B;I+like+coffee+☕" alt="Typing SVG" />
-</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400" alt="Coding gif">
