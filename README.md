@@ -25,13 +25,14 @@
 
 ### 🚀 Tech Arsenal
 
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://tutankhAman.github.io/tutankhAman/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://tutankhAman.github.io/tutankhAman/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://tutankhAman.github.io/tutankhAman/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+-->
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
