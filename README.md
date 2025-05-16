@@ -1,6 +1,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400" alt="Coding gif">
+  <img src="https://freeimage.host/i/3r4FSn9" alt="Coding img">
 </div>
 
 <h3 align="center">I am a full stack web developer and UI/UX designer.</h3>
